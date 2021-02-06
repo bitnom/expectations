@@ -12,7 +12,9 @@ Pypi package is present.
 
 `pip install expectations`
 
-Important steps are marked 1-4.
+## Implementation
+
+**Important steps are marked 1-4.**
 
 ```python
 import asyncio
@@ -81,4 +83,4 @@ if __name__ == '__main__':
 ```
 
 
-__MIT License__
+**MIT License**
