@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "expectations"
-version = "1.0.0"
+version = "1.0.1"
 description = "Asynchronous expectations (Jobs/tasks) for future events."
 authors = ["TensorTom <14287229+TensorTom@users.noreply.github.com>"]
 maintainers = ["TensorTom <14287229+TensorTom@users.noreply.github.com>"]
